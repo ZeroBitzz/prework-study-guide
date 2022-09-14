@@ -16,9 +16,9 @@ With only the greatest of caution
 
 ## Credits
 
-Broderick(me)
-The internet
-My laptop
+Broderick(me),
+The internet,
+My laptop, and
 Coffee
 
 ## License
